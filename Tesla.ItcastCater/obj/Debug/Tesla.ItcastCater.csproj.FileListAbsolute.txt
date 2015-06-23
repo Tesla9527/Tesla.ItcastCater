@@ -1,0 +1,5 @@
+C:\Tesla's files\Projects\Tesla.ItcastCater\Tesla.ItcastCater\bin\Debug\Tesla.ItcastCater.dll.config
+C:\Tesla's files\Projects\Tesla.ItcastCater\Tesla.ItcastCater\bin\Debug\Tesla.ItcastCater.dll
+C:\Tesla's files\Projects\Tesla.ItcastCater\Tesla.ItcastCater\bin\Debug\Tesla.ItcastCater.pdb
+C:\Tesla's files\Projects\Tesla.ItcastCater\Tesla.ItcastCater\obj\Debug\Tesla.ItcastCater.dll
+C:\Tesla's files\Projects\Tesla.ItcastCater\Tesla.ItcastCater\obj\Debug\Tesla.ItcastCater.pdb
